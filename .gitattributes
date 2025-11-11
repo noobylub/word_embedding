@@ -1,0 +1,5 @@
+indonesian_text/** filter=lfs diff=lfs merge=lfs -text
+malaysian_text/** filter=lfs diff=lfs merge=lfs -text
+dirty_indonesian_text/** filter=lfs diff=lfs merge=lfs -text
+dirty_malaysian_text/** filter=lfs diff=lfs merge=lfs -text
+
