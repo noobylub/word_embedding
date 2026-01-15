@@ -57,7 +57,7 @@ ipython_config.py
 *.pkl
 *.h5
 *.model
-*.bin
+# *.bin
 
 # Logs
 *.log

@@ -47,7 +47,7 @@ git lfs pull
 ```bash
 python -m venv wordembedding_env
 source wordembedding_env/bin/activate  # macOS/Linux
-# wordembedding_env\Scripts\activate  # Windows
+wordembedding_env\Scripts\activate  # Windows
 ```
 
 ### 3. Install dependencies
